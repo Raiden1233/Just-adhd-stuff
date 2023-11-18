@@ -1,5 +1,5 @@
 # TO be able to add stuff that i wanna do tomorrow or today or later in a while 
-number_of_stuff = input("How many items you have to do later or tomorrow?\n--> ")
+number_of_stuff = input("How many tasks you have to do later or tomorrow?\n--> ")
 def number_of_stuff_want_to_do():
 
     ls =  []
